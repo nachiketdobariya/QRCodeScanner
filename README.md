@@ -37,17 +37,17 @@
 Check out some of the screenshots from the app: 📸
 
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="screenshot/Screenshot1.png" alt="Screenshot 1" style="width: 272px; height: auto; margin-right: 10px;">
-  <img src="screenshot/Screenshot2.png" alt="Screenshot 2" style="width: 272px; height: auto; margin-right: 10px;">
-  <img src="screenshot/Screenshot3.png" alt="Screenshot 3" style="width: 272px; height: auto; margin-right: 10px;">
-  <img src="screenshot/Screenshot4.png" alt="Screenshot 4" style="width: 272px; height: auto; margin-right: 10px;">
-  <img src="screenshot/Screenshot5.png" alt="Screenshot 5" style="width: 272px; height: auto; margin-right: 10px;">
-  <img src="screenshot/Screenshot6.png" alt="Screenshot 6" style="width: 272px; height: auto; margin-right: 10px;">
-  <img src="screenshot/Screenshot7.png" alt="Screenshot 7" style="width: 272px; height: auto; margin-right: 10px;">
-  <img src="screenshot/Screenshot8.png" alt="Screenshot 8" style="width: 272px; height: auto; margin-right: 10px;">
-  <img src="screenshot/Screenshot9.png" alt="Screenshot 9" style="width: 272px; height: auto; margin-right: 10px;">
-  <img src="screenshot/Screenshot10.png" alt="Screenshot 10" style="width: 272px; height: auto; margin-right: 10px;">
-  <img src="screenshot/Screenshot11.png" alt="Screenshot 11" style="width: 272px; height: auto;">
+  <img src="screenshot/1.jpg" alt="Screenshot 1" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/2.jpg" alt="Screenshot 2" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/3.jpg" alt="Screenshot 3" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/4.jpg" alt="Screenshot 4" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/5.jpg" alt="Screenshot 5" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/6.jpg" alt="Screenshot 6" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/7.jpg" alt="Screenshot 7" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/8.jpg" alt="Screenshot 8" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/9.jpg" alt="Screenshot 9" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/10.jpg" alt="Screenshot 10" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/11.jpg" alt="Screenshot 11" style="width: 272px; height: auto;">
 </div>
 
 ---
